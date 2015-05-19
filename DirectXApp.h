@@ -144,7 +144,7 @@ private:
 
     MoveLookController^                                 m_controller;
     GameRenderer^                                       m_renderer;
-    SumoDX^												m_game;
+    SumoDX^						m_game;
 
     UpdateEngineState                                   m_updateState;
     UpdateEngineState                                   m_updateStateNext;
